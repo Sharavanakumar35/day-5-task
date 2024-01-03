@@ -1,0 +1,15 @@
+{
+    "name": "Sharavanakumar B S",
+    "email": "shark.35.kumar@gmail.com",
+    "education": {
+        "degree": "Master of Science",
+        "university": "PSG College of Technology",
+        "year": "2021"
+    },
+    "experience": {
+        "position": "Member Technical Staff",
+        "company": "Linx Works Pvt. Ltdd",
+        "year": "2021"
+    },
+    "skills": ["JavaScript", "React", "Node.js", "HTML", "CSS"]
+}
